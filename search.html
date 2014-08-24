@@ -3,11 +3,10 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Pre Hello OctoWorld - My Octopress Blog</title>
+	<title>My Octopress Blog</title>
     <meta name="author" content="Your Name">
     
-	<meta name="description" content="Header One AAAAAAAAAAAAAAA Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie Header One AAAAAAAAAAAAAAA Drugie dugie i trzecie becie &hellip;">
+	<meta name="description" content="Search Results ">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -79,54 +78,21 @@ lelelelel lecie w kozecie Header One AAAAAAAAAAAAAAA Drugie dugie i trzecie beci
 <div id="toload">
 <!-- begin toload --> 
     <div id="content" class="inner">
-        <article class="post">
-	<h2 class="title">Pre Hello OctoWorld</h2>
-	<div class="entry-content"><h2>Header One</h2>
-
-<h3>AAAAAAAAAAAAAAA</h3>
-
-<p>Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie</p>
-
-<h2>Header One</h2>
-
-<h3>AAAAAAAAAAAAAAA</h3>
-
-<p>Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie
-Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie</p>
-
-<p>&lsquo;
-Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie
-Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie
-&rsquo;</p>
-
-<p>Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie
-Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie</p>
+        <h1 class="entry-title"><center>Search Results</center></h1>
+<div id="search_loading" style="margin: 40px 0">
+    <center><img src="/images/loading.gif"></center>
 </div>
 
-<div class="meta">
-	
+<script type="text/javascript" src="/javascripts/jquery-tapir.js"></script>
+<div id="search_results" style="display:none">
+<br>
 </div>
-</article>
-
-	<div class="share">
-	<div class="addthis_toolbox addthis_default_style ">
-	
-	
-	<a class="addthis_button_tweet"></a>
-	
-	
-	<a class="addthis_counter addthis_pill_style"></a>
-	</div>
-  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
-</div>
-
+<script>
+         $('#search_results').tapir({
+             'token': '',
+             'complete' : function() { document.getElementById('search_loading').style.display="none"; }
+         });
+</script>
 
 
     </div>
