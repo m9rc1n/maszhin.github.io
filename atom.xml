@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://marc-inn.github.io/atom.xml" rel="self"/>
   <link href="http://marc-inn.github.io/"/>
-  <updated>2014-08-23T23:16:59+02:00</updated>
+  <updated>2014-08-24T10:29:56+02:00</updated>
   <id>http://marc-inn.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,9 +18,9 @@
     <link href="http://marc-inn.github.io/blog/2014/08/23/hello-octoworld/"/>
     <updated>2014-08-23T22:49:47+02:00</updated>
     <id>http://marc-inn.github.io/blog/2014/08/23/hello-octoworld</id>
-    <content type="html"><![CDATA[<h1>Header One</h1>
+    <content type="html"><![CDATA[<h2>Header One</h2>
 
-<h2>AAAAAAAAAAAAAAA</h2>
+<h3>AAAAAAAAAAAAAAA</h3>
 
 <p>That&rsquo;s the first ubudubu on my site
 Helelelelelelelelelelelelle</p>
@@ -32,9 +32,9 @@ fdsfdsfsdfsdfsdfsdfs
 
 <p>fsdsfdfssdfsdfsdfsdfsdfsdfsdfsdfsdfds</p>
 
-<h1>Header One</h1>
+<h2>Header One</h2>
 
-<h2>AAAAAAAAAAAAAAA</h2>
+<h3>AAAAAAAAAAAAAAA</h3>
 ]]></content>
   </entry>
   
@@ -43,16 +43,16 @@ fdsfdsfsdfsdfsdfsdfs
     <link href="http://marc-inn.github.io/blog/2014/08/22/hello-octoworld/"/>
     <updated>2014-08-22T22:49:47+02:00</updated>
     <id>http://marc-inn.github.io/blog/2014/08/22/hello-octoworld</id>
-    <content type="html"><![CDATA[<h1>Header One</h1>
+    <content type="html"><![CDATA[<h2>Header One</h2>
 
-<h2>AAAAAAAAAAAAAAA</h2>
+<h3>AAAAAAAAAAAAAAA</h3>
 
 <p>Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie</p>
 
-<h1>Header One</h1>
+<h2>Header One</h2>
 
-<h2>AAAAAAAAAAAAAAA</h2>
+<h3>AAAAAAAAAAAAAAA</h3>
 
 <p>Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie
@@ -247,6 +247,41 @@ lelelelel lecie w kozecie
 Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie
 Drugie dugie i trzecie becie, ecie pecie
+lelelelel lecie w kozecie
+Drugie dugie i trzecie becie, ecie pecie
+lelelelel lecie w kozecie</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pre Hello OctoWorld]]></title>
+    <link href="http://marc-inn.github.io/blog/2012/07/22/hello-octoworld/"/>
+    <updated>2012-07-22T22:49:47+02:00</updated>
+    <id>http://marc-inn.github.io/blog/2012/07/22/hello-octoworld</id>
+    <content type="html"><![CDATA[<h2>Header One</h2>
+
+<h3>AAAAAAAAAAAAAAA</h3>
+
+<p>Drugie dugie i trzecie becie, ecie pecie
+lelelelel lecie w kozecie</p>
+
+<h2>Header One</h2>
+
+<h3>AAAAAAAAAAAAAAA</h3>
+
+<p>Drugie dugie i trzecie becie, ecie pecie
+lelelelel lecie w kozecie
+Drugie dugie i trzecie becie, ecie pecie
+lelelelel lecie w kozecie</p>
+
+<p>&lsquo;
+Drugie dugie i trzecie becie, ecie pecie
+lelelelel lecie w kozecie
+Drugie dugie i trzecie becie, ecie pecie
+lelelelel lecie w kozecie
+&rsquo;</p>
+
+<p>Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie
 Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie</p>
