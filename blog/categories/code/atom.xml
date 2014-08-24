@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: code | My Octopress Blog]]></title>
+  <title><![CDATA[Category: code | Za górami, za salami!]]></title>
   <link href="http://marc-inn.github.io/blog/categories/code/atom.xml" rel="self"/>
   <link href="http://marc-inn.github.io/"/>
-  <updated>2014-08-24T10:36:36+02:00</updated>
+  <updated>2014-08-24T10:44:51+02:00</updated>
   <id>http://marc-inn.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Marcin Urbański, Weronika Lachtara]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
