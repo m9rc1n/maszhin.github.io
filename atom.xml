@@ -4,7 +4,7 @@
   <title><![CDATA[Za górami, za salami!]]></title>
   <link href="http://marc-inn.github.io/atom.xml" rel="self"/>
   <link href="http://marc-inn.github.io/"/>
-  <updated>2014-08-24T11:29:21+02:00</updated>
+  <updated>2014-08-24T11:36:39+02:00</updated>
   <id>http://marc-inn.github.io/</id>
   <author>
     <name><![CDATA[Marcin Urbański, Weronika Lachtara]]></name>
@@ -20,10 +20,13 @@
     <id>http://marc-inn.github.io/blog/2014/08/23/hello-octoworld</id>
     <content type="html"><![CDATA[<h2>Header One</h2>
 
-<h3>AAAAAAAAAAAAAAA</h3>
+<h3>Afsdgsd gufsdigu dfsoiu idd</h3>
 
-<p>That&rsquo;s the first ubudubu on my site
-Helelelelelelelelelelelelle</p>
+<p>That&rsquo;s the first ubudubu on my site</p>
+
+<p><img src="../images/art/van-gogh.gif" title="Title" alt="alt text" /></p>
+
+<p>Helelelelelelelelelelelelle</p>
 
 <pre><code>fdsfdsdfsdfsdfsdfsd
 fsdfsdfsdfdssdfsdfsdf
@@ -32,9 +35,7 @@ fdsfdsfsdfsdfsdfsdfs
 
 <p>fsdsfdfssdfsdfsdfsdfsdfsdfsdfsdfsdfds</p>
 
-<h2>Header One</h2>
-
-<h3>AAAAAAAAAAAAAAA</h3>
+<h3>Gghjgfsdjfgu fdasgfh asd</h3>
 ]]></content>
   </entry>
   
@@ -254,37 +255,38 @@ lelelelel lecie w kozecie</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Pre Hello OctoWorld]]></title>
+    <title type="html"><![CDATA[Pfsdg ifds aiiu uyi]]></title>
     <link href="http://marc-inn.github.io/blog/2012/07/22/hello-octoworld/"/>
     <updated>2012-07-22T22:49:47+02:00</updated>
     <id>http://marc-inn.github.io/blog/2012/07/22/hello-octoworld</id>
     <content type="html"><![CDATA[<h2>Header One</h2>
 
-<h3>AAAAAAAAAAAAAAA</h3>
+<h3>Zfdsf asdfdsfsd fds fsdfsd</h3>
 
 <p>Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie</p>
 
-<h2>Header One</h2>
-
-<h3>AAAAAAAAAAAAAAA</h3>
+<h3>Zfsdgfdsg</h3>
 
 <p>Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie
-Drugie dugie i trzecie becie, ecie pecie
+lelegfsdjghdsf gofsug oidfsuo
+\g ifdusgoiufds ia
+sjgkfjga gaf gsajf;gj fsdg;as
 lelelelel lecie w kozecie</p>
 
-<p>&lsquo;
+<p>&lsquo;&rsquo;&lsquo;
 Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie
 Drugie dugie i trzecie becie, ecie pecie
 lelelelel lecie w kozecie
-&rsquo;</p>
+&rsquo;&lsquo;&rsquo;</p>
 
 <p>Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie
-Drugie dugie i trzecie becie, ecie pecie
-lelelelel lecie w kozecie</p>
+lelfsdgelelel lecie w kozecie
+Drugie gdsdugie i trzecie becie, ecie pecie
+lelelelel aglecie w kozecie
+sadgdsagsasssssssssssssssssshkjh jkhgkjsadhgk kjghasdkjghlsda
+gdsaglkjds gsadkjgh fkjsdhgkjas glksafhg asflkhglkafshlu</p>
 ]]></content>
   </entry>
   
