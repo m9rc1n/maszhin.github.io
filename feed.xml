@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marcin Urbański</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <title>marcin urbański</title>
+    <description></description>
     <link>http://marc-inn.github.io/</link>
     <atom:link href="http://marc-inn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Nov 2015 01:21:52 +0100</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2015 01:21:52 +0100</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2015 17:50:51 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2015 17:50:51 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
-        <title>My Blog Post</title>
-        <description>
+        <title>How to Learn Kotlin?</title>
+        <description>&lt;p&gt;Recently I started to discover Kotlin. Language, created by JetBrains, seems to be great alternative for Java in 
+future Android development.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-start-learning-kotlin&quot;&gt;How to start learning Kotlin?&lt;/h2&gt;
+
+&lt;p&gt;The best way to learn that languages is to clone repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+    git clone https://github.com/jetbrains/workshop-jb
+&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 08 Nov 2015 22:59:42 +0100</pubDate>
-        <link>http://marc-inn.github.io/2015/11/08/my-blog-post.html</link>
-        <guid isPermaLink="true">http://marc-inn.github.io/2015/11/08/my-blog-post.html</guid>
+        <pubDate>Mon, 09 Nov 2015 17:49:18 +0100</pubDate>
+        <link>http://marc-inn.github.io/2015/11/09/how-to-learn-kotlin.html</link>
+        <guid isPermaLink="true">http://marc-inn.github.io/2015/11/09/how-to-learn-kotlin.html</guid>
         
         
       </item>
