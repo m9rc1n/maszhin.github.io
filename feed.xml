@@ -5,8 +5,8 @@
     <description>The personal site of Joel Andrew Glovier, designer and front-end technologist. Where I write about code, design, faith, food, and life. Views expressed are my own. Use code at your own risk.</description>
     <link>http://joelglovier.com/</link>
     <atom:link href="http://joelglovier.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Nov 2015 20:38:08 +0100</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 20:38:08 +0100</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 21:00:06 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 21:00:06 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -18,7 +18,7 @@
         <guid isPermaLink="true">http://joelglovier.com/writing/hello-blog-world-again</guid>
         
         
-        <category>newbie, life</category>
+        <category>life</category>
         
       </item>
     
@@ -31,7 +31,7 @@
         <guid isPermaLink="true">http://joelglovier.com/writing/hello-blog-world</guid>
         
         
-        <category>newbie, life</category>
+        <category>code</category>
         
       </item>
     
